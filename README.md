@@ -20,7 +20,7 @@ This app was originally generated on Thu May 24 2018 13:36:30 GMT+0530 (IST) usi
 <!-- Internally, Sails used [`sails-generate@1.15.25`](https://github.com/balderdashy/sails-generate/tree/v1.15.25/lib/core-generators/new). -->
 
 
-This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
+This is a small project using sailsjs(an MVC framework of node js). After logging in a google map is displayed, if a user click on any location of the map a mapmarker is created at that point and the location is saved a MRSQL DB.
 
 
 <!--
